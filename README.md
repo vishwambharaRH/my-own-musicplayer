@@ -21,3 +21,6 @@ I have some software that I'd like to make too.
 ### When?
 When I have the money for the components.
 
+### Initial experiments
+Will try with an RPi Zero 2W, and a 32GiB drive instead of 512GiB, as a proof-of-concept.
+
